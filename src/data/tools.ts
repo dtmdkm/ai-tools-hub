@@ -6,7 +6,7 @@ export const toolsData: Tool[] = [
         name: 'Kie Ai',
         description: 'The ultimate directory for AI tools and platforms to boost your productivity. We index thousands of AI tools daily.',
         tagline: 'Discover the best AI tools in one place, curated for you.',
-        url: 'https://www.aiflatforms.com',
+        url: 'https://kie.aiflatforms.com',
         thumbnailUrl: '/ai_platforms.png',
         tags: ['Directory', 'AI', 'Search'],
         category: 'Productivity',
