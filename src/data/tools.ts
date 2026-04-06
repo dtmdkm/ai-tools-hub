@@ -2,8 +2,6 @@ import { Tool } from '@/types';
 
 export const toolsData: Tool[] = [
     {
-<<<<<<< HEAD
-=======
         id: 'rankscale',
         name: 'Rankscale AI',
         description: 'Advanced AI platform for automated scale ranking and SEO optimization. Dominate search rankings with AI-driven content and intelligence.',
@@ -18,7 +16,6 @@ export const toolsData: Tool[] = [
         views: 480100,
     },
     {
->>>>>>> 7184882 (Upload Rankscale AI and images)
         id: 'gohighlevel',
         name: 'GoHighLevel',
         description: 'The ultimate all-in-one sales & marketing platform. Replaces clunky agency tools with a single powerful CRM and AI lead-gen engine.',
@@ -122,7 +119,7 @@ export const toolsData: Tool[] = [
         description: 'A dedicated AI search engine that provides cited answers, combining LLMs with real-time web browsing.',
         tagline: 'Where knowledge begins - an AI search engine.',
         url: 'https://www.perplexity.ai',
-        thumbnailUrl: 'perplexity.png',
+        thumbnailUrl: '/perplexity.png',
         tags: ['Search', 'Research', 'AI'],
         category: 'Research',
         pricing: 'Freemium',
@@ -136,7 +133,7 @@ export const toolsData: Tool[] = [
         description: 'Next generation AI assistant by Anthropic. Highly capable in reasoning, coding, and creative writing.',
         tagline: 'Advanced reasoning and highly capable AI assistant.',
         url: 'https://claude.ai',
-        thumbnailUrl: 'claude.png',
+        thumbnailUrl: '/claude.png',
         tags: ['Chatbot', 'LLM', 'Reasoning'],
         category: 'Text & Writing',
         pricing: 'Freemium',
@@ -150,7 +147,7 @@ export const toolsData: Tool[] = [
         description: 'An open-source intelligence framework to automate web scraping and browser capabilities.',
         tagline: 'Automate your web interactions seamlessly.',
         url: '#',
-        thumbnailUrl: 'openclaw.png',
+        thumbnailUrl: '/openclaw.png',
         tags: ['Developer Tools', 'Automation', 'Scraping'],
         category: 'Developer Tools',
         pricing: 'Free',
@@ -164,7 +161,7 @@ export const toolsData: Tool[] = [
         description: 'Pioneering AI video generation and lip-sync technology. Create stunning music videos with AI dancers.',
         tagline: 'Transform music into stunning AI dance videos.',
         url: '#',
-        thumbnailUrl: 'seedance.png',
+        thumbnailUrl: '/seedance.png',
         tags: ['Video Generation', 'Music', 'Animation'],
         category: 'Video Generation',
         pricing: 'Paid',
