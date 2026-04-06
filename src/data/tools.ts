@@ -2,8 +2,6 @@ import { Tool } from '@/types';
 
 export const toolsData: Tool[] = [
     {
-<<<<<<< HEAD
-=======
         id: 'rankscale',
         name: 'Rankscale AI',
         description: 'Advanced AI platform for automated scale ranking and SEO optimization. Dominate search rankings with AI-driven content and intelligence.',
@@ -18,7 +16,6 @@ export const toolsData: Tool[] = [
         views: 480100,
     },
     {
->>>>>>> 7184882 (Upload Rankscale AI and images)
         id: 'gohighlevel',
         name: 'GoHighLevel',
         description: 'The ultimate all-in-one sales & marketing platform. Replaces clunky agency tools with a single powerful CRM and AI lead-gen engine.',
