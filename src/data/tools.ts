@@ -1,6 +1,20 @@
 import { Tool } from '@/types';
 
 export const toolsData: Tool[] = [
+     {
+        id: 'webflow',
+        name: 'Webflow',
+        description: 'Build professional, custom websites in a completely visual canvas with no-code. Webflow combines design, animation, content management, marketing, and ecommerce tools into a single platform.',
+        tagline: 'Build with the power of code — without writing any.',
+        url: 'https://webflow.com/',
+        thumbnailUrl: '/webflow.jpg',
+        tags: ['No-code', 'Web Design', 'CMS'],
+        category: 'Design',
+        pricing: 'Freemium',
+        verified: true,
+        upvotes: 25601,
+        views: 542000,
+    },
     {
         id: 'originalityai',
         name: 'Originality.ai',
